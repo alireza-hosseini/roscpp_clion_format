@@ -1,4 +1,4 @@
-# roscpp_clion_format
+# ROSCPP Clion Code Format
 
 A simple repositroy which is providing [Clion](https://www.jetbrains.com/clion/) IDE configurations for [ROS C++ Style Guidelines](http://wiki.ros.org/CppStyleGuide) 
 
